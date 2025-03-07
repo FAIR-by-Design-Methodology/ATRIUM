@@ -7,9 +7,13 @@ tags:
     - FAIR-by-Design Methodology
 ---
 
-# FAIR-by-Design Session 1
+# FAIR-by-Design Methodology for Learning Materials
 
 The goal of the first part (the theoretical session) of the training program is to provide participants with a solid foundational understanding of the FAIR-by-Design Methodology, enabling them to comprehend the importance and practical applications of this concept in the context of creating and enhancing FAIR learning materials.
+
+## Slides
+
+[Download the slides here](https://github.com/FAIR-by-Design-Methodology/ATRIUM/raw/main/resources/Session%201/Session_1_FAIR-by-Design_Methodology.pptx){:download}
 
 ## Learning Objectives
 
