@@ -1,19 +1,34 @@
-site_name: FAIR-by-Design Template Repository
+site_name: FAIR-by-Design Methodology Training
 docs_dir: resources
 theme:
   name: material
   palette:
     primary: custom
-  logo: attachments/logo-white.png
+  logo: attachments/logo.png
   custom_dir: resources/overrides
   features:
     - navigation.footer
     - search.highlight
     - search.suggest
 markdown_extensions:
+  - attr_list
   - markdown_include.include:
       base_path: .
   - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - admonition
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
 plugins:
   - search
   - tags
