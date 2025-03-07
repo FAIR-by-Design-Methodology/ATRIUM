@@ -75,6 +75,270 @@ Tips:
 - Don't hesitate to ask your trainer for assistance.
 - Remember that the goal is to improve the materials, so be constructive in your critique.
 
+### Part 2: SMART learning objectives
+
+Steps:
+
+1. Review the Existing Learning Objectives (If Any):
+    - If the learning material already has learning objectives, review them.
+    - Assess if they are SMART (Specific, Measurable, Achievable, Relevant, Time-bound).
+    - Note any areas where they can be improved.
+2. Refer to Your FAIRness Assessment:
+    - Use your findings from the FAIRness assessment to identify areas where the learning material can be improved.
+    - Consider how these improvements can be translated into learning objectives.
+3. Use Bloom's Taxonomy:
+    - Use Bloom's Taxonomy to ensure a range of cognitive levels in your objectives (Remembering, Understanding, Applying, Analyzing, Evaluating, Creating).
+    - Start with lower-level objectives (e.g., remembering key terms) and progress to higher-level objectives (e.g., applying concepts to solve problems).
+    - Consider what level of learning the learning object is aiming to teach.
+4. Craft SMART Learning Objectives:
+    - For each identified improvement, create a SMART learning objective:
+        - Specific: Clearly define what learners will be able to do.
+        - Measurable: Include criteria for measuring learner achievement.
+        - Achievable: Ensure the objective is realistic and attainable within the context of the learning material.
+        - Relevant: Align the objective with the purpose and content of the learning material.
+        - Time-bound: If applicable, include a timeframe for achieving the objective.
+    - Example Objectives:
+        - Example 1 (Metadata): "By the end of this module, learners will be able to accurately identify and populate all mandatory fields of the RDA minimum metadata schema for this learning resource, using controlled vocabulary for subject terms."
+        - Example 2 (Accessibility): "Learners will be able to create accurate alternative text descriptions for all images in the learning resource, ensuring accessibility for visually impaired users."
+        - Example 3 (Reusability): "Learners will be able to identify at least three distinct modules within the learning resource that can be reused in different educational contexts."
+5. Document Your Objectives:
+    - Use the provided Google Docs (or a similar document) to record your SMART learning objectives.
+    - Include a brief explanation of how each objective maybe relates to other FAIRness improvements.
+6. Discuss and Refine:
+    - Discuss your objectives with your group and trainer.
+    - Refine your objectives based on feedback and suggestions.
+
+Tips:
+
+- Focus on objectives that directly address the identified context.
+- Use action verbs to clearly define what learners will be able to do.
+- Ensure your objectives are learner-centered and focused on outcomes.
+- Keep your objectives concise and easy to understand.
+- Remember that the learning objectives should drive the improvements you make to the learning material.
+
+### Part 3: Metadata schema
+
+Steps:
+
+1. Review the RDA Minimum Metadata Schema:
+    - Carefully examine the fields defined in the RDA minimum metadata schema for learning resources.
+    - Understand the purpose and requirements of each field.
+    - Note that all fields are mandatory (this is the minimal schema).
+2. Compare Existing Metadata:
+    - Compare the existing metadata of your learning material to the RDA schema.
+    - Identify which fields are already populated and which are missing.
+    - Assess the quality and accuracy of the existing metadata.
+3. Populate Missing Fields:
+    - For each missing mandatory field, provide appropriate values based on the content of the learning material.
+    - Use controlled vocabularies where applicable (e.g., for subject terms).
+    - Ensure that the values are accurate, complete, and relevant.
+4. Improve Existing Metadata:
+    - Review the existing metadata for accuracy and completeness.
+    - If necessary, revise or expand the values to better align with the RDA schema and the FAIR principles.
+    - Pay particular attention to fields that impact Findability and Interoperability (e.g., Title, Identifier).
+5. Use Controlled Vocabularies:
+    - Identify relevant vocabularies for your community and select applicable fields in the schema.
+6. Assign Persistent Identifiers (PIDs) (If Applicable):
+    - If possible, devise a standardised approach to assign a persistent identifier (PID) to the learning material.
+    - This will ensure that the resource can be reliably located and cited.
+    - If you think PIDs are not an option in this case, discuss potential options with your trainer.
+7. Document Your Changes:
+    - Use Google Docs (or a similar document) to record the changes you make to the metadata.
+    - Note the original metadata (if any) and the updated values.
+    - Explain the rationale for your changes.
+8. Discuss and Refine:
+    - Discuss your metadata enhancements with your group and trainer.
+    - Refine your metadata based on feedback and suggestions.
+
+Tips:
+
+- Be thorough and accurate in your metadata creation.
+- Pay attention to detail and ensure consistency across all fields.
+- Use clear and concise language.
+- Remember that metadata is essential for making learning materials Findable and Interoperable.
+- If you are unsure about a field, ask your trainer for guidance.
+- Use the FAIRness assessment to guide your decisions.
+- Remember to document the process.
+
+### Part 4: Attribution
+
+Steps:
+
+1. The TASL Method:
+    - Review the TASL method:
+        - Title: What is the title of the work?
+        - Author: Who created the work?
+        - Source: Where did you find the work?
+        - License: What license is the work under?
+    - How each element contributes to proper attribution?
+2. Identify All Reused Resources:
+    - Carefully examine the learning material and identify all resources used (e.g., images, videos, text excerpts, data sets).
+    - Make a list of these resources.
+3. Check Existing Attributions:
+    - For each resource, check if there is an existing attribution.
+    - Assess if the attribution is complete and accurate.
+    - Identify any missing elements or errors.
+4. Apply the TASL Method:
+    - For each resource, use the TASL method to create a complete and accurate attribution.
+    - Ensure that all four elements (Title, Author, Source, License) are included.
+    - If any information is missing, research and find it.
+5. Enhance Attributions:
+    - How to ensure that the attributions are clearly visible and accessible (e.g., near the resource, in a separate attribution section)?
+6. Verify Licensing Information:
+    - Double-check the licensing information for each resource.
+    - Ensure that the license is compatible with the overall license of the learning material.
+    - If using Creative Commons licenses, ensure that they are correctly applied and attributed.
+7. Document Your Changes:
+    - Use Google Docs (or a similar document) to record the changes you make to the attributions.
+    - Note the original attribution (if any) and the updated attribution.
+    - Explain the rationale for your changes.
+8. Discuss and Refine:
+    - Discuss your attribution enhancements with your group and trainer.
+    - Refine your attributions based on feedback and suggestions.
+
+Tips:
+
+- Be thorough and accurate in your attribution.
+- Pay attention to detail and ensure consistency across all attributions.
+- Use clear and concise language.
+- Remember that proper attribution is essential for respecting copyright and promoting ethical use of resources.
+- If you are unsure about an attribution, ask your trainer for guidance.
+- Use the FAIRness assessment to guide your decisions.
+- Remember to document the process.
+- Pay special attention to resources that have been adapted or modified.
+
+### Part 5: Structure
+
+Steps:
+
+1. Review the Existing Structure:
+    - Examine the current organization and flow of the learning material.
+    - Identify any areas where the structure is unclear, illogical, or overly complex.
+    - Consider how the material could be broken down into smaller, more manageable units.
+2. Refer to Your Learning Objectives:
+    - Use your refined SMART learning objectives to guide the restructuring process.
+    - Ensure that the new structure supports the achievement of the learning objectives.
+3. Identify Logical Units:
+    - Divide the learning material into logical units or modules based on content, concepts, or learning objectives.
+    - Each unit should be self-contained and address a specific learning goal.
+    - Consider using microlearning principles to create short, focused modules.
+4. Create a Modular Structure:
+    - Develop a modular structure that allows for easy rearrangement and repurposing of the learning units.
+    - Consider using a hierarchical structure or a network of interconnected modules.
+    - Ensure that the modules are logically sequenced and build upon each other.
+5. Enhance Granularity:
+    - Break down larger units into smaller, more granular learning objects (e.g., individual concepts, skills, or tasks).
+    - Each learning object should be focused and address a specific learning outcome.
+    - Consider using different media types (e.g., text, images, videos, interactive exercises) to create engaging and diverse learning objects.
+6. Create Clear Titles and Descriptions:
+    - Assign clear and descriptive titles to each learning unit and learning object.
+    - Provide brief descriptions that explain the purpose and content of each unit or object.
+    - This will enhance findability and reusability.
+7. Document Your Changes:
+    - Use Google Docs (or a similar document) to record the changes you make to the logical structure and granularity.
+    - Note the original structure and the new modular structure.
+    - Explain the rationale for your changes.
+8. Discuss and Refine:
+    - Discuss your structural enhancements with your group and trainer.
+    - Refine your structure based on feedback and suggestions.
+
+Tips:
+
+- Focus on creating a logical and intuitive structure that is easy for learners to navigate.
+- Use clear and consistent labeling and formatting.
+- Ensure that the modules and learning objects are self-contained and can be used independently.
+- Consider the different ways that the learning material could be used in different educational contexts.
+- Remember that modularity and granularity are essential for promoting reusability and adaptability.
+- Consider how you can use metadata to enhance the findability of the modules and learning objects.
+- Remember to document the process.
+
+### Part 6: Accessibility
+
+Steps:
+
+Option 1: Alternative Text for Images (if any):
+    - Identify Images: Locate all images within the learning material.
+        - Context is Key: For each image, consider its context and purpose within the learning material. What information is the image conveying?
+    - Write Descriptive Alt Text:
+        - Write clear and concise alternative text that accurately describes the image.
+        - Focus on the essential information the image conveys.
+        - Avoid phrases like "image of" or "picture of."
+        - If the image is complex (e.g., a graph or chart), provide a more detailed description.
+        - If the image is purely decorative, use empty alt text (alt="").
+
+Option 2: Alternative Text for Videos (if any):
+    - Identify Videos: Locate all videos within the learning material.
+    - Provide Transcripts: If possible, provide a full transcript of the video's audio content.
+    - Add Captions: Add closed captions to the video to make it accessible to deaf and hard-of-hearing viewers.
+    - Audio Descriptions: If the video contains important visual information that is not conveyed in the audio, add audio descriptions.
+    - Implement Accessibility Features: Use the video player's built-in accessibility features or third-party tools to add captions, transcripts, and audio descriptions.
+
+2. Using an Accessibility Checker:
+    - Install Plugin: Install the accessibility checker plugin in your web browser (working with web-based materials).
+    - Run Check: Run the accessibility checker on the learning material.
+    - Review Results: Carefully review the results of the accessibility check.
+    - Identify Issues: Identify any accessibility issues that are flagged by the checker.
+    - Prioritize Issues: Prioritize the issues based on their severity and impact on users.
+    - Address Issues: Make the necessary changes to address the identified accessibility issues.
+    - Re-Check: Re-run the accessibility checker to ensure that the issues have been resolved.
+3. Document Your Changes:
+    - Use Google Docs (or a similar document) to record the changes you make to improve accessibility.
+    - Note the original state of the learning material and the updated version.
+    - Explain the rationale for your changes.
+4. Discuss and Refine:
+    - Discuss your accessibility enhancements with your group and trainer.
+    - Refine your accessibility improvements based on feedback and suggestions.
+
+Tips:
+
+- Focus on making the learning material accessible to all learners, including those with disabilities.
+- Be thorough and accurate in your alternative text and captioning.
+- Use clear and concise language.
+- Remember that accessibility is an ongoing process.
+- If you are unsure about an accessibility issue, ask your trainer for guidance.
+- Use the FAIRness assessment to guide your decisions.
+- Remember to document the process.
+
+### Part 7: Publishing and Versioning
+
+Steps:
+
+1. Publishing the Materials:
+    - Publish for Instructors:
+        - Choose how and where to publish the instructor kits and editable version of the learning content 
+        - Provide clear instructions on how instructors can access and use the materials.
+    - Publish for Learners:
+        - Publish the learning materials in a way that is easily accessible to learners.
+        - what types of file formats will be used in this case 
+2. Implementing Versioning:
+    - Suggest how to use Version Control:
+    - You want to be able to easily access version history of all documents.
+    - Make the version history easily accessible to users.
+3. Facilitating Collaboration:
+    - Establish Collaboration Guidelines:
+        - Define clear guidelines for collaboration, including roles, responsibilities, and communication protocols.
+        - What Collaborative Tools will you use?
+4. Gathering Feedback:
+    - Implement Feedback Mechanisms:
+        - Suggest feedback mechanisms for the learning materials (e.g., feedback forms, surveys, comment sections).
+        - Provide clear instructions on how learners can provide feedback.
+        - How to gather feedback from a variety of sources, including learners, instructors, and experts.
+5. Handle improvements:
+    - Make a plan when and how to analyse the feedback
+    - Define a procedure on how to implement the changes in a systematic and organized manner.
+    - Schedule regular reviews of the learning materials to ensure they remain current and relevant.
+6. Document Your Process:
+    - Use Google Docs (or a similar document) to record your decisions and actions related to publishing, versioning, collaboration, feedback, and continuous improvement.
+7. Discuss and Refine:
+    - Discuss your processes  and plans with your group and trainer.
+    - Refine your approach based on feedback and suggestions.
+
+Tips:
+
+- Focus on creating a sustainable and scalable process for managing and improving the learning materials.
+- Use clear and consistent documentation.
+- Encourage collaboration and feedback from diverse stakeholders.
+- Remember that continuous improvement is an ongoing process.
 
 
 ## Summary
