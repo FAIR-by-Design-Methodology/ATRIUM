@@ -1,115 +1,72 @@
 ---
-title: "FAIR Learning Unit Learning Content Structure Template"
+title: "Applying FAIR-by-Design Methodology on existing learning resources"
 author: "Skills4EOSC T2.3"
 tags: 
     - FAIR-by-Design Learning Materials
     - FAIR Learning Objects
-    - FAIR Learning Unit Template
+    - FAIR-by-Design Methodology
+    - Hands-on
+    - FAIRification
 ---
 
-# Learning Unit Template
+# Hands-on Session
 
-Introduction
+In this session, we move beyond theory and dive into the practical application of the FAIR-by-Design Methodology. We'll be working with existing learning materials, putting on our 'FAIRness detective' hats to evaluate their current state and then systematically enhance them. Through a series of focused activities, we'll address metadata improvements, accessibility enhancements, and strategies for maximizing reusability. This is your opportunity to gain real-world experience, collaborate with your peers, and leave with tangible skills that you can immediately apply to your own learning resource development.
 
 ## Learning Objectives
 
-- min one learning objective using the verbs from the Blooms taxonomy
+- apply the FAIR-by-Design stages to enhance the FAIRness of a provided learning material
+- use validation tools to check the FAIR compliance of learning materials
+- implement metadata enhancements
+- analyse accessibility improvements (e.g., alt text, captions, transcripts) to a provided learning material
+- apply strategies to improve the reusability of a learning resource (e.g., modularization)
 
 ## Target Audience
 
-- who is this learning unit meant for
+- ATRIUM instructional designers
 
 ## Duration
 
-- time needed to learn the provided content
+- 4 hours
 
 ## Prerequisites
 
-- list any knowledge that is required so that the learning unit can be followed
+- session 1 of this training
 
 ## Learning Tools
 
-- list any tools that are necessary to be used to complete the learning unit
-- examples include required software, access to resources, etc.
+- GoogleDocs based templates
+- external links to existing learning materials
+- FAIR-by-Design QA checklist
+- Accessibility checker
 
-## Learning Content Topic
+## Overview of the hands-on activities
 
-Here goes the content of the learning unit divided into a number of subtopics and any additional headings as necessary.
+In this hands-on workshop, we'll begin by directly assessing the FAIRness of provided existing learning materials using a dedicated QA checklist. Following this initial evaluation, we'll systematically apply the FAIR-by-Design Methodology. First, we'll Prepare by refining learning objectives and identifying gaps through the lens of Bloom's Taxonomy. Then, we'll Design by enhancing the metadata schema using the RDA minimum schema, focusing on completeness and accuracy. During the Discover phase, we'll conduct an attribution check using the TASL method to ensure proper credit and licensing. We'll further Design by restructuring the materials into logical, reusable modules. In the Produce phase, we'll implement accessibility improvements using online checkers and then outline a comprehensive instructor kit. Throughout the session, we'll engage in peer review, culminating in a summary Q&A session. This structured approach will provide you with practical experience in enhancing the FAIRness of learning materials, preparing you to apply these skills in your own work.
 
-Use blank rows to divide between paragraphs.
-
-References to external or internal content provided elsewhere should be linked with [hyperlinks](https://pages.github.com/).
-
-### Sub-subtitle
-
-Refer to a different learning unit using a relative link. For an example, see the [Syllabus](../index.md) file.
-
-*Example italic text*
-
-**Example bold text**
-
-### Lists
-
-Example numbered bullets:
-
-1. numbered list one
-2. two
-3. three
-
-Example unnumbered list.
-
-- unnumbered list
-- item two
-- item three
-    - subitem
-    - use 4 spaces to create nested subitem
-
-You can also create mixed lists:
-
-- mixed list
-    1. now numbered subitem
-    2. subitem number two
-- back to mixed list level 1 bullet
-
-### Images
-
-To add an image, first place the image in the /attachments folder and then use a relative link similar to above using a ! in front. 
-All images should be located in the attachments folder that is on the same level with the content file. 
-
-![alternative text for accessibility an image of a macaw parrot](attachments/macaw-g8f80c4f64_640.jpg)
-
-Caption: Macaw Parrot
-Image by [Karina Copa](https://pixabay.com/users/kayuli-781524) from [Pixabay](https://pixabay.com)
+### Part 1: FAIR-by-Design QA checklist
 
 
-Don't forget attribution if the image was not created by you. If you are reusing images or text clear attribution should be provided as in the example above. Same applies in case of reusing text or other type of content. Be careful to follow the attribution rules as provided by the image source (in the example above it is Pixabay).
-
-### Accessibility
-
-Using headings and subheadings, lists and alternative text for images is extremely important so as to ensure accessibility of the content for people with impairments. Also, take care to choose the appropriate color pallette for images.
-
-### Tables
-
-Tables are a bit tricky in md, the easiest way to create them is to use a tool that will generate the md code that you can then just copy paste in your content file.
-One such tool that can be used is the [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) available online. The provided example table has been generated using this tool. 
-
-| **Column 1 title** | **Column 2 title**  |
-|--------------------|---------------------|
-| content 1          |      content 4      |
-| content 2          |      content 5      |
-| content 3          | content 6 content 7 |
-
-### Related Learning Materials
-
-Refer to exercises, quizzes, games or other types of learning materials where ever they should be included in the unit and provide links to this content.
 
 
 ## Summary
 
-At the end provide a short summary of the main points of the learning unit (these are the key takeaways that help reflect on the learning outcomes)
+This hands-on session aimed to provide participants with practical experience in enhancing the FAIRness of existing learning materials using the FAIR-by-Design Methodology. Through a structured process, participants assessed, planned, designed, and improved learning resources, focusing on metadata, accessibility, and reusability. Peer review, validation tools, and collaborative activities were employed to reinforce learning and ensure practical application.
+
+Key Takeaways:
+
+- FAIRness is an iterative process: Enhancing learning materials requires a systematic approach, starting with assessment and progressing through the FAIR-by-Design stages.   
+- Metadata is crucial for findability and interoperability: Implementing robust metadata schemas, using controlled vocabularies, and assigning persistent identifiers are essential.   
+- Accessibility is paramount: Ensuring learning materials are accessible to all learners requires careful planning and implementation of accessibility features.   
+- Reusability enhances impact: Modularizing content and applying appropriate licensing enables wider adoption and adaptation of learning resources.
+- Collaboration and peer review are valuable: Engaging with peers provides diverse perspectives and improves the quality of learning materials.   
+- Continuous improvement is essential: Regular evaluation, maintenance, and updates are necessary to ensure the ongoing FAIRness and relevance of learning materials.
+- Practical application reinforces learning: Hands-on activities and real-world scenarios solidify theoretical knowledge and build practical skills.   
+- Instructor kits are vital for consistent delivery: A well-designed instructor kit enables effective and adaptable delivery of learning modules.
+- Attribution and licensing are key: Correctly attributing content and applying proper licensing ensures legal compliance and promotes ethical use.
+- Tools and checklists aid the process: Using validation tools, accessibility checkers, and QA checklists streamlines the FAIRness enhancement process.
 
 ## Suggested Reading
 
-- provide a list of references for further reading that should help clarify the content of the learning unit and elevate the knowledge level
-- [Markdown guide](https://www.markdownguide.org/), free and open-source reference guide that explains how to use Markdown.
+- [Filiposka, S., Mishev, A., Corleto, A., Napolitano, E., Paolini, G., Di Giorgio, S., Winandi, A., Janik, J., Drążewski, K., Gingold, A., Hadrossek, C., Souyioultzoglou, I., Green, D., & Prandoni, C. (2025). MS2.4 - Final recommendations on FAIR-by-Design training resources. Zenodo. https://doi.org/10.5281/zenodo.14930618](https://doi.org/10.5281/zenodo.14930618)
 
