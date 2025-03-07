@@ -1,29 +1,35 @@
 ---
 # RDA learning materials metadata minimal set
-title: "The human readable name of the learning resource."
+title: "ATRIUM trainings: FAIR-by-Design Methodology for learning resources"
 author: 
-    - Name of entity(ies) 
-    - authoring the resource
+    - Sonja Filiposka
 tags: 
-    - Keywords
-    - Tags 
-    - Resource Description
+    - FAIR Principles
+    - FAIR-by-Design Methodology
+    - Learning Materials
+    - Metadata
+    - Findability
+    - Accessibility
+    - Interoperability
+    - Reusability
+    - Licensing
+    - Version Control
+    - Collaboration
+    - Continuous Improvement
 
-abstract: "A brief synopsis about or description of the learning resource."
-primaryLanguage: "two letter code, Language in which the resource was originally published or made available."
-license: "A license document that applies to this content, typically indicated by URL"
-versionDate: "YYYY-MM-DD Version date for the most recently published or broadcast resource."
+abstract: "This training program is designed to equip participants with the knowledge and practical skills to create and enhance learning materials using the FAIR-by-Design Methodology. It begins with a theoretical foundation, exploring the core principles of FAIR (Findable, Accessible, Interoperable, Reusable) and their application in the development of learning materials. The program then transitions to a hands-on workshop, where participants assess and improve the FAIRness of existing learning materials, covering metadata enhancement, accessibility improvements, and reusability strategies. Through practical exercises, participants gain experience in applying the FAIR-by-Design stages to create sustainable and impactful educational resources."
+primaryLanguage: "EN"
+license: "http://creativecommons.org/licenses/by/4.0/"
+versionDate: "2025-03-13"
 urlToResource: "https://doi.org/10.5072/zenodo.1234567"
 resourceURLType: "URL"
-targetGroup: "Principle users(s) for which the resource was designed."
-learningResourceType: "The predominant type or kind that characterizes the learning resource."
+targetGroup: "ATRIUM instructional designers"
+learningResourceType: "HTML"
 learningOutcome: 
-    - Descriptions of what knowledge, 
-    - skills or 
-    - abilities 
-    - students should acquire on completion of the resource.
-accessCost: "Choice stating whether or not there is a fee for use of the resource (CV = Y/N/Maybe with recommendation that further explanation of “Maybe” goes in the Description field"
-expertiseLevel: "Target skill level in the topic being taught; example values include: beginner, intermediate, advanced"
+    - By the end of the theoretical session, participants will be able to accurately define and explain the activities defines within the FAIR-by-Design Methodology and their relevance to developing FAIR learning resources
+    - participants will be able to apply the FAIR-by-Design stages to enhance the FAIRness of a provided learning material
+accessCost: "N"
+expertiseLevel: "beginner"
 # template is a reserved keyword related to publishing of the Git book itself and not part of the RDA metadata schema. Please leave it as is and don't edit it manually
 template: signposting.html
 # hide is a reserved keyword related to the layout of the landing page and not part of the RDA metadata schema. Please leave it as is and don't edit it manually
@@ -33,30 +39,31 @@ hide:
 
 ![Header with Skills4EOSC funding information](./attachments/header.png)
 
-# Title of training 
+# ATRIUM trainings: FAIR-by-Design Methodology for learning resources
 
 {!RELEASE_NOTES.md!}
 
-# Type (Course/Workshop/Webinar)
+# Webinar
 
-## Date/Time: when it will be offered
+## Date/Time: 
 
-- put available from date if it is self-paced
+- Session 1: March 14th 2025, 10.00 - 12.30 CET
+- Session 2: March 21st 2025, 10.00 - 16.00 CET
 
 ## Location
 
-- where it will be available
-- physical location
-- URL link to resources (and virtual room if online) should lead to the learning Skills4EOSC platform
+- Zoom
+- URL link room is sent to registered participants only via email
 
 ## Training Description
 
-- what is the main goal/purpose of this training
-- short training description
+This training program is designed to equip participants with the knowledge and practical skills to create and enhance learning materials using the FAIR-by-Design Methodology. It begins with a theoretical foundation, exploring the core principles of FAIR (Findable, Accessible, Interoperable, Reusable) and their application in the development of learning materials. 
 
-## Target audience: target audience description
+The program then transitions to a hands-on workshop, where participants assess and improve the FAIRness of existing learning materials, covering metadata enhancement, accessibility improvements, and reusability strategies. Through practical exercises, participants gain experience in applying the FAIR-by-Design stages to create sustainable and impactful educational resources.
 
-## Expertise Level / Skill Level: Beginner / Intermediate / Advanced
+## Target audience: ATRIUM instructional designers
+
+## Expertise Level / Skill Level: Beginner
 
 ## Primary Language: English
 
@@ -64,53 +71,54 @@ hide:
 
 ## Prerequisites
 
-- if any
+- none
 
 ## Duration
 
-- total training duration
+- 6.5 h
 
 ## Training objectives
 
-- list of specific training objectives
+- By the end of the theoretical session, participants will be able to accurately define and explain the activities defines within the FAIR-by-Design Methodology and their relevance to developing FAIR learning resources
+- participants will be able to apply the FAIR-by-Design stages to enhance the FAIRness of a provided learning material
 
 ## Keywords
 
-Keywords or tags used to describe the training.
+FAIR Principles, FAIR-by-Design Methodology, Learning Materials, Metadata, Findability, Accessibility, Interoperability, Reusability, Licensing, Version Control, Collaboration, Continuous Improvement
 
-## Agenda: Training Schedule - Training Structure
+## Agenda: Training Schedule
+
+Session 1
 
 | Date/Time | Topic             |
 |-----------|-------------------|
-| timeslot  | training unit 1   |
-| timeslot  | training unit 2   |
-| timeslot  | coffee break      |
-| timeslot  | training unit 3   |
-| timeslot  | lunch break       |
-| timelsot  | training unit 4   |
-| timeslot  | training unit 5   |
+| 14.03.2025 10.00-12.30  | FAIR-by-Design Methodology Deep Dive |
+
+Session 2
+
+| Date/Time | Topic             |
+|-----------|-------------------|
+| 21.03.2025 10.00-16.00  | Hands-on FAIRification of existing learning materials using the FAIR-by-Design Methodology |
 
 ## Resources and Materials
 
-- location of available resources for the training
+- All necessary learning materials are provided via links on these pages
 
 ## Certification Information
 
-- if any
+- no certification is offered for this training
 
 ## Author(s)
 
-- List of people involved in preparing the training
-- format: Name Surname, comma separated
+- Sonja Filiposka
 
 # Trainer(s)
 
-- List of people involved in delivering the training
-- format: Name Surname [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0123-4561-8999-9999), Name Surname [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0123-4561-8999-9999), ...
+- Sonja Filiposka [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0000-0003-0034-2855), Anastas Mishev [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0000-0001-7271-6655), Bojana Koteska [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0000-0001-6118-9044), Vojdan Kjorveziroski [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0000-0003-0419-4300)
 
 ## Contact information
 
-- how to reach out to training organizers
+- if you have any questions or comments please reach out to [sonja.filiposka@finki.ukim.mk](mailto:sonja.filiposka@finki.ukim.mk)
 
 ## License
 
