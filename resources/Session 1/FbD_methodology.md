@@ -1,112 +1,59 @@
 ---
-title: "FAIR Learning Unit Learning Content Structure Template"
+title: "FAIR-by-Design Methodology"
 author: "Skills4EOSC T2.3"
 tags: 
     - FAIR-by-Design Learning Materials
     - FAIR Learning Objects
-    - FAIR Learning Unit Template
+    - FAIR-by-Design Methodology
 ---
 
-# Learning Unit Template
+# FAIR-by-Design Session 1
 
-Introduction
+The goal of the first part (the theoretical session) of the training program is to provide participants with a solid foundational understanding of the FAIR-by-Design Methodology, enabling them to comprehend the importance and practical applications of this concept in the context of creating and enhancing FAIR learning materials.
 
 ## Learning Objectives
 
-- min one learning objective using the verbs from the Blooms taxonomy
+Participants will be able to 
+
+- identify and articulate the benefits of creating FAIR learning materials
+- describe the stages of the FAIR-by-Design Methodology
+- explain how the stages contribute to creating FAIR learning resources
+- explain the role of metadata in making learning materials Findable and Interoperable
+- describe the importance of accessibility in learning materials
+- discuss the role of licensing (specifically Creative Commons) in promoting the reusability of learning materials
 
 ## Target Audience
 
-- who is this learning unit meant for
+- Instructional designers
 
 ## Duration
 
-- time needed to learn the provided content
+- 2.5h
 
 ## Prerequisites
 
-- list any knowledge that is required so that the learning unit can be followed
+- none
 
 ## Learning Tools
 
-- list any tools that are necessary to be used to complete the learning unit
-- examples include required software, access to resources, etc.
+- QR code and link to interactive room will be provided by trainer
+- rest of the materials are available on these pages
 
-## Learning Content Topic
+## FAIR-by-Design Methodology
 
 Here goes the content of the learning unit divided into a number of subtopics and any additional headings as necessary.
 
-Use blank rows to divide between paragraphs.
 
-References to external or internal content provided elsewhere should be linked with [hyperlinks](https://pages.github.com/).
-
-### Sub-subtitle
-
-Refer to a different learning unit using a relative link. For an example, see the [Syllabus](../index.md) file.
-
-*Example italic text*
-
-**Example bold text**
-
-### Lists
-
-Example numbered bullets:
-
-1. numbered list one
-2. two
-3. three
-
-Example unnumbered list.
-
-- unnumbered list
-- item two
-- item three
-    - subitem
-    - use 4 spaces to create nested subitem
-
-You can also create mixed lists:
-
-- mixed list
-    1. now numbered subitem
-    2. subitem number two
-- back to mixed list level 1 bullet
-
-### Images
-
-To add an image, first place the image in the /attachments folder and then use a relative link similar to above using a ! in front. 
-All images should be located in the attachments folder that is on the same level with the content file. 
-
-![alternative text for accessibility an image of a macaw parrot](attachments/macaw-g8f80c4f64_640.jpg)
-
-Caption: Macaw Parrot
-Image by [Karina Copa](https://pixabay.com/users/kayuli-781524) from [Pixabay](https://pixabay.com)
-
-
-Don't forget attribution if the image was not created by you. If you are reusing images or text clear attribution should be provided as in the example above. Same applies in case of reusing text or other type of content. Be careful to follow the attribution rules as provided by the image source (in the example above it is Pixabay).
-
-### Accessibility
-
-Using headings and subheadings, lists and alternative text for images is extremely important so as to ensure accessibility of the content for people with impairments. Also, take care to choose the appropriate color pallette for images.
-
-### Tables
-
-Tables are a bit tricky in md, the easiest way to create them is to use a tool that will generate the md code that you can then just copy paste in your content file.
-One such tool that can be used is the [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) available online. The provided example table has been generated using this tool. 
-
-| **Column 1 title** | **Column 2 title**  |
-|--------------------|---------------------|
-| content 1          |      content 4      |
-| content 2          |      content 5      |
-| content 3          | content 6 content 7 |
-
-### Related Learning Materials
-
-Refer to exercises, quizzes, games or other types of learning materials where ever they should be included in the unit and provide links to this content.
 
 
 ## Summary
 
-At the end provide a short summary of the main points of the learning unit (these are the key takeaways that help reflect on the learning outcomes)
+Creating truly effective and sustainable learning materials requires a conscious and systematic approach, guided by the FAIR principles and the FAIR-by-Design Methodology. Participants should leave with a clear understanding that:
+
+- FAIR is not just a buzzword: It's a set of actionable principles that significantly enhance the impact of educational resources.
+- Planning is essential: The FAIR-by-Design Methodology provides a structured framework for planning, creating, and maintaining FAIR learning materials.   
+- Metadata, accessibility, and licensing are crucial: These elements are not afterthoughts but integral components of FAIRness.
+- A strong theoretical foundation is the key to practical success: Understanding the "why" behind FAIR helps effectively apply the "how".
 
 ## Suggested Reading
 
