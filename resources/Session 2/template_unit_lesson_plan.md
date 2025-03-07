@@ -1,58 +1,57 @@
 ---
-title: "FAIR Learning Unit Lesson Plan Template"
+title: "Session2 Learning Unit Lesson Plan"
 author: "Skills4EOSC T2.3"
 tags: 
     - FAIR-by-Design Learning Materials
     - FAIR Learning Objects
-    - FAIR Learning Unit Lesson Plan Template
+    - Hands-on FAIRification
 ---
 
-# Unit Lesson Plan Template
+# Session 2 Plan
 
-## Unit Name
+## FAIRification of existing learning resources
 
-Aim/Goal of unit
+The goal of the second session (the hands-on workshop) is to provide participants with practical experience in applying the FAIR-by-Design Methodology to enhance the FAIRness of existing learning materials, enabling them to develop the skills and confidence necessary to create and maintain high-quality, sustainable educational resources.
 
 ### Location
-- is it going to be online or physical
-- if physical any special room type should be noted (e.g. classroom, IT lab, ...)
+- online
+- zoom room with breakout rooms
 
-### Total duration
+### Total duration 4h
 
 ### Number of attendees
-- important to know the max group size
-- can be a number range (e.g. 20-30)
+- max 25
+- 5-6 people per room
 
 ### Learning objectives
-- list the learning objectives that are to be achieved
-- learning objectives should be devised using the verbs from the Bloom's Taxonomy
-- learning objectives should be SMART
+- apply the FAIR-by-Design stages to enhance the FAIRness of a provided learning material
+- use validation tools to check the FAIR compliance of learning materials
+- implement metadata enhancements
+- analyse accessibility improvements (e.g., alt text, captions, transcripts) to a provided learning material
+- apply strategies to improve the reusability of a learning resource (e.g., modularization, clear licensing)
 
 ### Plan
-| Duration | Topic                  | Key points/Teaching Method/Questions                                   | Activities               | Resources                  |
-|----------|------------------------|------------------------------------------------------------------------|--------------------------|----------------------------|
-| X mins   | Welcome / Introduction | - housekeeping  - introduce trainer and trainees - learning objectives | ice breaker              | e.g. name tags, flip chart |
-| X mins   | The hook               | - focus attention - provide framework                                  | brainstorm expectations  | e.g. post-it notes         |
-| X mins   | Training               | information + examples                                                 | check for understanding  | e.g. pptx + handouts       |
-| X mins   | Guided practice        | trainer acts as facilitator                                            | exercise or activity     | e.g. posters and markers   |
-| X mins   | Summary                | key takeaways                                                          | reinforcement assignment | e.g. cards                 |
 
-Note: If the training is relying heavily on presentations then another option for the plan layout is to provided in a slide by slide using slide thumbnails in the topic column. In this case each row in the table should refer to a separate slide in the presentation.
-
+| **Duration** | **Topic** | **Key points/Teaching Method/Questions** | **Activities** | **Resources** |
+|---|---|---|---|---|
+| 5 mins | Welcome / Introduction | - housekeeping  - introduce trainers and trainees - learning objectives | introduce environment | slides + Gdocs |
+| 15 mins | existing learning materials | - focus attention - provide framework - create groups | go through todo list | slides + Gdocs |
+| 5 mins | FAIR-by-Design Methodology | short recap | check for understanding | slide |
+| 30 mins | Verify | check FAIRness of material | QA checklist | breakout + excel |
+| 25 mins | Prepare | SMART learning objectives | Bloom's taxonomy | Gdocs |
+| 30 mins | Design | metadata schema (syllabus) define what is missing | RDA min schema | Gdocs |
+| 20 mins | **BREAK** | coffee break |  |  |
+| 20 mins | Discover | attribution check and add/fix | TASL method | Gdocs |
+| 20 mins | Design | logical structure | divide into pieces | Gdocs |
+| 25 mins | Produce | accessibility improvement | checker | Browser + plugin |
+| 25 mins | Design | instructor kit | outline | templates + Gdocs |
+| 15 mins | Q&A | open floor for questions |  | main room |
+| 5 mins | Wrap-up | close the session | live feedback |  |
 
 ### Assessment
-- what, how, when
-- is it going to be formative (throughout) or summative (in the end)
-- results how and when
+
+- no assessment is planned for this session
 
 ### Certificate or Badge
-- micro-credentials for the unit
-- if certificate or badge is issued then explain how it can be gained
 
-### Reflection
-- how did it go
-- highlights: what went great
-- improvement points: what went wrong
-
-### Comments
-- any additional comments from external parties acting as co-creators
+- no certificate is available for this session
