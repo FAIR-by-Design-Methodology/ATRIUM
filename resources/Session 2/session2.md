@@ -44,8 +44,36 @@ In this session, we move beyond theory and dive into the practical application o
 
 In this hands-on workshop, we'll begin by directly assessing the FAIRness of provided existing learning materials using a dedicated QA checklist. Following this initial evaluation, we'll systematically apply the FAIR-by-Design Methodology. First, we'll Prepare by refining learning objectives and identifying gaps through the lens of Bloom's Taxonomy. Then, we'll Design by enhancing the metadata schema using the RDA minimum schema, focusing on completeness and accuracy. During the Discover phase, we'll conduct an attribution check using the TASL method to ensure proper credit and licensing. We'll further Design by restructuring the materials into logical, reusable modules. In the Produce phase, we'll implement accessibility improvements using online checkers and then outline a comprehensive instructor kit. Throughout the session, we'll engage in peer review, culminating in a summary Q&A session. This structured approach will provide you with practical experience in enhancing the FAIRness of learning materials, preparing you to apply these skills in your own work.
 
+### Organisation
+
+In this session the hands-on activities will be performed in breakout rooms with 5-6 people per room. Each room will be guided by a trainer and will get the links to their use-case (existing learning resources). At the and the participants will come together for a final debrief and Q&A.
+
 ### Part 1: FAIR-by-Design QA checklist
 
+Steps:
+
+1. Familiarize Yourself with the Learning Material:
+    - Take a few minutes to review the learning material. Understand its purpose, content, and target audience.
+    - Note the format of the material (e.g., text document, video, interactive module).
+2. Review the FAIRness Assessment Checklist:
+    - Carefully review the provided FAIRness Assessment Checklist.
+    - Ensure you understand each criterion and how it relates to the FAIR principles.
+    - Ask your trainer for clarification if needed.
+3. Assess the FAIRness of the resource
+    - Use the provided Excel/Google Sheets template (or a document) to record your findings.
+    - Be specific and look for examples to support your assessments.
+    - Note any areas where the material is lacking in FAIRness.
+4. Discuss Your Findings:
+    - Discuss your findings with your group and trainer.
+    - Identify the most significant areas for improvement.
+    - Prepare to share your findings during the debriefing session.
+
+Tips:
+
+- Be objective and thorough in your assessment.
+- Focus on the practical aspects of FAIRness.
+- Don't hesitate to ask your trainer for assistance.
+- Remember that the goal is to improve the materials, so be constructive in your critique.
 
 
 
