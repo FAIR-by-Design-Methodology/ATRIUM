@@ -1,0 +1,30 @@
+{
+  "creators": [
+    {
+      "affiliation": "UKIM",
+      "name": "Filiposka, Sonja",
+      "orcid": "0000-0003-0034-2855"
+    }
+  ],
+  "description": "Two-session training for the ATRIUM community on how to implement the FAIR-by-Design methodology developed by the SKills4EOSC project.",
+  "keywords": [
+    "FAIR-by-Design",
+    "learning materials",
+    "methodology"
+  ],
+  "license": "CC-BY-4.0",
+  "publication_date": "2025-03-13",
+  "title": "ATRIUM Training: FAIR-by-Design Methodology for learning materials",
+  "version": "1.0.0",
+  "upload_type": "lesson",
+  "communities": [
+    {
+      "identifier": "skills4eosc"
+    }
+  ],
+  "grants": [
+    {
+      "id": "10.13039/501100000780::101058527"
+    }
+  ]
+}
