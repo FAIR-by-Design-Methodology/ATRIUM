@@ -44,7 +44,7 @@ The goal of the second session (the hands-on workshop) is to provide participant
 | 20 mins | Discover | attribution check and add/fix | TASL method | Gdocs |
 | 20 mins | Design | logical structure | divide into pieces | Gdocs |
 | 25 mins | Produce | accessibility improvement | checker | Browser + plugin |
-| 25 mins | Publish | publishing and versioning | outline | Gdocs |
+| 25 mins | Publish | publishing formats, versioning | kit | Gdocs |
 | 15 mins | Q&A | open floor for questions |  | main room |
 | 5 mins | Wrap-up | close the session | live feedback |  |
 
