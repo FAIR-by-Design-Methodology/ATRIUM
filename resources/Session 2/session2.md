@@ -299,34 +299,31 @@ Tips:
 - Use the FAIRness assessment to guide your decisions.
 - Remember to document the process.
 
-### Part 7: Publishing and Versioning
+### Part 7: Formats, Learning Experience and Versioning
 
 Steps:
 
-1. Publishing the Materials:
+1. Interaction
+    - make a suggestion on how to enrich the learning materials with interactive elements
+    - how to assess the learner knowledge 
+    - how to provide additional activities, preferably interactive
+2. File formats:
     - Publish for Instructors:
         - Choose how and where to publish the instructor kits and editable version of the learning content 
         - Provide clear instructions on how instructors can access and use the materials.
     - Publish for Learners:
         - Publish the learning materials in a way that is easily accessible to learners.
         - what types of file formats will be used in this case 
-2. Implementing Versioning:
+3. Implementing Collaborative Versioning:
     - Suggest how to use Version Control:
     - You want to be able to easily access version history of all documents.
     - Make the version history easily accessible to users.
-3. Facilitating Collaboration:
-    - Establish Collaboration Guidelines:
-        - Define clear guidelines for collaboration, including roles, responsibilities, and communication protocols.
-        - What Collaborative Tools will you use?
 4. Gathering Feedback:
-    - Implement Feedback Mechanisms:
-        - Suggest feedback mechanisms for the learning materials (e.g., feedback forms, surveys, comment sections).
-        - Provide clear instructions on how learners can provide feedback.
-        - How to gather feedback from a variety of sources, including learners, instructors, and experts.
+    - Suggest feedback mechanisms for the learning materials (e.g., feedback forms, surveys, comment sections).
+    - Provide clear instructions on how learners can provide feedback.
+    - How to gather feedback from a variety of sources, including learners, instructors, and experts.
 5. Handle improvements:
-    - Make a plan when and how to analyse the feedback
-    - Define a procedure on how to implement the changes in a systematic and organized manner.
-    - Schedule regular reviews of the learning materials to ensure they remain current and relevant.
+    - Define a procedure on how to implement identified changes in a systematic and organized manner.
 6. Document Your Process:
     - Use Google Docs (or a similar document) to record your decisions and actions related to publishing, versioning, collaboration, feedback, and continuous improvement.
 7. Discuss and Refine:
@@ -335,6 +332,8 @@ Steps:
 
 Tips:
 
+- Use open file formats
+- Provide editable versions for instructors with a comprehensive instructor kit
 - Focus on creating a sustainable and scalable process for managing and improving the learning materials.
 - Use clear and consistent documentation.
 - Encourage collaboration and feedback from diverse stakeholders.
