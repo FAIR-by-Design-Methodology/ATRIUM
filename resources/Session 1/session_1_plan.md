@@ -1,58 +1,63 @@
 ---
-title: "FAIR Learning Unit Lesson Plan Template"
+title: "FAIR-by-Design Session 1 Plan"
 author: "Skills4EOSC T2.3"
 tags: 
     - FAIR-by-Design Learning Materials
     - FAIR Learning Objects
-    - FAIR Learning Unit Lesson Plan Template
+    - How to develop FAIR learning materials
 ---
 
-# Unit Lesson Plan Template
+# Unit Lesson Plan 
 
-## Unit Name
+## FAIR-by-Design Session 1
 
-Aim/Goal of unit
+The goal of the first part (the theoretical session) of the training program is to provide participants with a solid foundational understanding of the FAIR-by-Design Methodology, enabling them to comprehend the importance and practical applications of this concept in the context of creating and enhancing FAIR learning materials.
 
 ### Location
-- is it going to be online or physical
-- if physical any special room type should be noted (e.g. classroom, IT lab, ...)
+- online
+- zoom room
 
-### Total duration
+### Total duration 2.5h
 
 ### Number of attendees
-- important to know the max group size
-- can be a number range (e.g. 20-30)
+- 250+
 
 ### Learning objectives
-- list the learning objectives that are to be achieved
-- learning objectives should be devised using the verbs from the Bloom's Taxonomy
-- learning objectives should be SMART
+
+Participants will be able to 
+
+- identify and articulate the benefits of creating FAIR learning materials
+- describe the stages of the FAIR-by-Design Methodology
+- explain how the stages contribute to creating FAIR learning resources
+- explain the role of metadata in making learning materials Findable and Interoperable
+- describe the importance of accessibility in learning materials
+- discuss the role of licensing (specifically Creative Commons) in promoting the reusability of learning materials
 
 ### Plan
-| Duration | Topic                  | Key points/Teaching Method/Questions                                   | Activities               | Resources                  |
-|----------|------------------------|------------------------------------------------------------------------|--------------------------|----------------------------|
-| X mins   | Welcome / Introduction | - housekeeping  - introduce trainer and trainees - learning objectives | ice breaker              | e.g. name tags, flip chart |
-| X mins   | The hook               | - focus attention - provide framework                                  | brainstorm expectations  | e.g. post-it notes         |
-| X mins   | Training               | information + examples                                                 | check for understanding  | e.g. pptx + handouts       |
-| X mins   | Guided practice        | trainer acts as facilitator                                            | exercise or activity     | e.g. posters and markers   |
-| X mins   | Summary                | key takeaways                                                          | reinforcement assignment | e.g. cards                 |
 
-Note: If the training is relying heavily on presentations then another option for the plan layout is to provided in a slide by slide using slide thumbnails in the topic column. In this case each row in the table should refer to a separate slide in the presentation.
+| **Duration** | **Topic** | **Key points/Teaching Method/Questions** | **Activities** | **Resources** |
+|---|---|---|---|---|
+| 10 mins | Welcome / Introduction | - housekeeping  - introduce trainer and trainees - learning objectives | introduce particify | slides + QR code |
+| 15 mins | FAIR learning materials | - focus attention - provide framework | brainstorm expectations | slides + particify |
+| 5 mins | FAIR-by-Desing Methodology | general overview | check for understanding | slide |
+| 15 mins | Prepare | start the backward design process | exercise or activity | slides + particify |
+| 15 mins | Discover | findability and keywords, attribution | reinforcement assignment | slides + particify |
+| 15 mins | Design | structure, remixing, licensing |  | slides + particify |
+| 10 mins | **BREAK** | coffee break |  |  |
+| 15 mins | Produce | formats, collaboration, accessibility, instructor kit |  | slides + particify |
+| 15 mins | Publish | open vs closed, what where |  | slides + particify |
+| 15 mins | Verify | feedback and QA check |  | slides + particify |
+| 15 mins | Continuous Improvement | analyse and improve |  | slides + particify |
+| 15 mins | Q&A | open floor for questions |  | slides + particify |
+| 5 mins | Wrap-up | close the session, announce next one | live feedback | slides + particify |
 
 
 ### Assessment
-- what, how, when
-- is it going to be formative (throughout) or summative (in the end)
-- results how and when
+
+- formative assessment
+- using particify
+- results are presented live during the session
 
 ### Certificate or Badge
-- micro-credentials for the unit
-- if certificate or badge is issued then explain how it can be gained
 
-### Reflection
-- how did it go
-- highlights: what went great
-- improvement points: what went wrong
-
-### Comments
-- any additional comments from external parties acting as co-creators
+- this training does not offer any certification
