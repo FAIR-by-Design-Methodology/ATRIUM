@@ -7,6 +7,8 @@ tags:
     - Training Evaluation Template
 ---
 
+[Online feedback form](https://forms.gle/YnZ8tpGaQAnzoNqP8)
+
 # Training Evaluation Form
 In Skills4EOSC we strive to provide high quality training and continuous improve our training activities. 
 To be able to achieve that your feedback is very important to us. 
