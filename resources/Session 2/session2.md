@@ -13,6 +13,11 @@ tags:
 
 In this session, we move beyond theory and dive into the practical application of the FAIR-by-Design Methodology. We'll be working with existing learning materials, putting on our 'FAIRness detective' hats to evaluate their current state and then systematically enhance them. Through a series of focused activities, we'll address metadata improvements, accessibility enhancements, and strategies for maximizing reusability. This is your opportunity to gain real-world experience, collaborate with your peers, and leave with tangible skills that you can immediately apply to your own learning resource development.
 
+## Slides
+
+[Download the slides here](https://github.com/FAIR-by-Design-Methodology/ATRIUM/raw/main/resources/Session%202/Session_2_FAIR-by-Design_Hands-on.pptx){:download}
+
+
 ## Learning Objectives
 
 - apply the FAIR-by-Design stages to enhance the FAIRness of a provided learning material
