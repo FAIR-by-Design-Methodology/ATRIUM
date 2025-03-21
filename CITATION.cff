@@ -9,11 +9,11 @@ title: "ATRIUM Training: FAIR-by-Design Methodology for learning materials"
 abstract: "Two-session training for the ATRIUM community on how to implement the FAIR-by-Design methodology developed by the SKills4EOSC project."
 version: 1.0.0
 doi: 10.5070/zenodo.123
-date-released: "2025-03-13"
+date-released: "2025-03-21"
 license: CC-BY-4.0
 license-url: "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
 keywords:
- - "FAIR-by-Design"
- - "learning materials"
- - "methodology"
+  - "FAIR-by-Design"
+  - "learning materials"
+  - "methodology"
 repository: "https://github.com/FAIR-by-Design-Methodology/ATRIUM"
