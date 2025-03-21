@@ -21,7 +21,7 @@ abstract: "This training program is designed to equip participants with the know
 primaryLanguage: "EN"
 license: "http://creativecommons.org/licenses/by/4.0/"
 versionDate: "2025-03-13"
-urlToResource: "https://doi.org/10.5072/zenodo.1234567"
+urlToResource: "https://doi.org/10.5281/zenodo.15064638"
 resourceURLType: "URL"
 targetGroup: "ATRIUM instructional designers"
 learningResourceType: "HTML"
@@ -126,7 +126,7 @@ Session 2
 
 ## DOI
 
-[https://doi.org/10.5072/zenodo.1234567](https://doi.org/10.5072/zenodo.1234567)
+[https://doi.org/10.5281/zenodo.15064638](https://doi.org/10.5281/zenodo.15064638)
 
 ## Accessibility Mission
 
