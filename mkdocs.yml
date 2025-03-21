@@ -65,17 +65,17 @@ citation:
   title: "ATRIUM Training: FAIR-by-Design Methodology for learning materials"
   abstract: "Two-session training for the ATRIUM community on how to implement the FAIR-by-Design methodology developed by the SKills4EOSC project."
   version: 1.0.0
-  doi: 10.5070/zenodo.123
+  doi: 10.5281/zenodo.15064638
   date-released: "2025"
   license: CC-BY-4.0
   license-url: "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
   type: generic
   keywords:
-    - "FAIR-by-Design"
-    - "learning materials"
-    - "methodology"
+    - FAIR-by-Design
+    - learning materials
+    - methodology
   repository: "https://github.com/FAIR-by-Design-Methodology/ATRIUM"
-signposting_linkset: https://raw.githubusercontent.com/FAIR-by-Design-Methodology/ATRIUM/main/linkset.json # do not update manually
+signposting_linkset: https://raw.githubusercontent.com/FAIR-by-Design-Methodology/ATRIUM/1.0.0/linkset.json # do not update manually
 signposting_default_profile: '' # update with an URL towards the profile used for the Markdown pages (optional)
 # signposting_gitbook_url: https://gitbook.example.com # leave commented (prefixed with `#`) if using GitHub Pages with the default domain.
 signposting_exclusions:
